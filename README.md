@@ -8,7 +8,7 @@
 ## 🧐 About
 - 🏄‍ Web Developer/Front End
 - 🤝 I am looking forward to collaborate on open source projects
-- 🌱 I’m currently learning Backend Web Development.
+- 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - ⚡ Fun fact: Fun fact - I ❤️ Coffee☕.
 - 📫 How to reach me: mail me at [vanisingh6612@gmail.com](mailto:vanisingh6612@gmail.com)
