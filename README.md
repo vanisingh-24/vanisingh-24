@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Fun fact - I ❤️ Coffee☕.
 - 📫 How to reach me: mail me at [vanisingh6612@gmail.com](mailto:vanisingh6612@gmail.com)
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanisingh-24&show_icons=true&theme=merko)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanisingh-24&show_icons=true&theme=merko)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vanisingh-24&layout=compact&hide=html&theme=merko)
 
 ### Languages and Tools:
 
